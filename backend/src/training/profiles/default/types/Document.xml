@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object meta_type="Dexterity FTI"
+        name="Document"
+>
+  <property name="filter_content_types">True</property>
+  <property name="allowed_content_types"
+            purge="false"
+  >
+    <element value="talk" />
+  </property>
+</object>
