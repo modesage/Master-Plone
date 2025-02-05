@@ -10,4 +10,10 @@
   <!-- Metadata
   <column value="industry" />
 -->
+  <index meta_type="BooleanIndex"
+         name="featured"
+  >
+    <indexed_attr value="featured" />
+  </index>
+  <column value="featured" />
 </object>
